@@ -1,0 +1,11 @@
+images = [
+
+    // "assets/img/clients/fem.png",
+    // "assets/img/clients/ginnastica artm.png",
+    // "assets/img/clients/ae.png",
+    {id: 1, img: "assets/img/clients/ttt.png", name:''},
+    {id: 2, img: "assets/img/clients/rit.png", name:'Ritmica'},
+    // {id: 5, name:'BatGirl'},
+    // {id: 3, name:'Robin'},
+    // {id: 4, name:'Flash'}
+  ];
